@@ -1,0 +1,9 @@
+This file stores the device IDs of the oscilloscope and function generator.
+
+Oscilloscope: 
+- Model: DPO2002B
+- ID: "USB0::0x0699::0x0399::C040433::INSTR"
+
+Function Generator: 
+- Model: AFG3102C
+- ID: "USB0::0x0699::0x034C::C012350::INSTR"
