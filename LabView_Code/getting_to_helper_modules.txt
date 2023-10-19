@@ -1,0 +1,11 @@
+Getting to the helper modules
+
+On the block diagram page
+
+Help
+-> Find Examples... 
+-> Hardware Input and Output 
+-> Instrument Drivers 
+-> LabVIEW Plug and Play
+
+Then, choose something appropriate and modify as needed.
